@@ -1,9 +1,5 @@
 # Flask Proj
 
-[Overview](#overview)
-•
-[Doc](#doc)
-
 ## :scroll: Overview
 That's a small project that i made while learning Flask
 
@@ -23,7 +19,7 @@ That's a small project that i made while learning Flask
 
 ## Installation and usage
 
-git clone https://github.com/Rersome/flask_proj.git
-cd flask_proj
-pipenv shell
-pipenv install -r requirements.txt
+* git clone https://github.com/Rersome/flask_proj.git
+* cd flask_proj
+* pipenv shell
+* pipenv install -r requirements.txt
