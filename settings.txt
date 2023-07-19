@@ -1,0 +1,16 @@
+{"site_url":"https://Rersome.github.io",
+"site_title": "Ustenko Danila: Python и PostgreSQL разработчик",
+"description": "Ustenko Danila - портфолио, резюме Python разработчика",
+"keywords": "Веб-разработка на Python, бэкенд на Flask",
+"city" : "Владивосток",
+"name": "Ustenko Danila",
+"sect1":"Главная",
+"sect2":"Резюме",
+"sect3":"Портфолио",
+"sect4":"Контакты",
+"telegram":"https://t.me/bens0m",
+"vk":"https://vk.com/cjepacanianime",
+"email":"mailto:skvill.93@gmail.com",
+"github":"https://github.com/Rersome",
+"discord":"https://discordapp.com/users/huishnya"
+}
