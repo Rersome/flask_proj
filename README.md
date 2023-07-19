@@ -15,7 +15,7 @@ That's a small project that i made while learning Flask
 * MarkupSafe==1.1.1
 * Pygments==2.4.2
 * PyYAML==5.1.2
-* Werkzeug==0.16.0t
+* Werkzeug==0.16.0
 
 ## Installation and usage
 
